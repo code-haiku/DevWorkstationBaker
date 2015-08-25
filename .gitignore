@@ -2,3 +2,4 @@
 *.msi
 *.msu
 *.box
+packer_cache/
